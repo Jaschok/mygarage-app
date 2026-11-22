@@ -1,3 +1,5 @@
+Link zur App: https://jaschok.github.io/mygarage-app/
+
 MyGarage auf dem Handy einrichten
 =================================
 
@@ -23,8 +25,9 @@ A1. App installieren
 Du brauchst die App "Chrome" (rundes Symbol in Rot, Gelb, Grün und
 Blau, ist fast immer schon drauf).
 
-1. Tippe auf den Link, den du bekommen hast (zum Beispiel in WhatsApp,
-   in einer SMS oder in einer E-Mail).
+1. Öffne den Link https://jaschok.github.io/mygarage-app/
+   Tippe dazu auf den Link, den du bekommen hast (zum Beispiel in
+   WhatsApp, in einer SMS oder in einer E-Mail).
    Falls sich nicht Chrome öffnet: Halte den Finger lange auf den Link
    und tippe auf "Link kopieren". Öffne Chrome, tippe oben in die
    Adresszeile, halte den Finger darauf, tippe auf "Einfügen" und dann
@@ -72,7 +75,8 @@ B1. App installieren
 --------------------
 Du brauchst die App "Safari" (blauer Kompass, ist immer schon drauf).
 
-1. Tippe auf den Link, den du bekommen hast.
+1. Öffne den Link https://jaschok.github.io/mygarage-app/
+   Tippe dazu auf den Link, den du bekommen hast.
    Falls sich nicht Safari öffnet (zum Beispiel weil sich der Link
    in WhatsApp oder in der Mail-App öffnet): Halte den Finger lange auf
    den Link und tippe auf "Kopieren". Öffne Safari, tippe auf die
