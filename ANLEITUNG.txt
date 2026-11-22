@@ -8,7 +8,6 @@ Reparaturen, Tankbuch, Fahrzeugschein und Rechnungen.
 Alles bleibt nur auf deinem Handy. Es gibt kein Konto und keine Anmeldung.
 
 Du brauchst:
-- Den Link zu MyGarage (eine Internetadresse, die mit https:// beginnt).
 - Für die Einrichtung einmal Internet. Danach läuft die App auch ohne Internet.
 
 Hast du ein Android-Handy (zum Beispiel Samsung, Xiaomi, Google Pixel)?
