@@ -1,0 +1,152 @@
+MyGarage auf dem Handy einrichten
+=================================
+
+MyGarage ist eine App für dein Auto: TÜV- und Inspektionstermine,
+Reparaturen, Tankbuch, Fahrzeugschein und Rechnungen.
+Alles bleibt nur auf deinem Handy. Es gibt kein Konto und keine Anmeldung.
+
+Du brauchst:
+- Den Link zu MyGarage (eine Internetadresse, die mit https:// beginnt).
+- Für die Einrichtung einmal Internet. Danach läuft die App auch ohne Internet.
+
+Hast du ein Android-Handy (zum Beispiel Samsung, Xiaomi, Google Pixel)?
+Dann lies Teil A. Hast du ein iPhone? Dann lies Teil B.
+Teil C (Erster Start) und Teil D (Gut zu wissen) gelten für beide.
+
+
+=====================================================================
+TEIL A: ANDROID
+=====================================================================
+
+A1. App installieren
+--------------------
+Du brauchst die App "Chrome" (rundes Symbol in Rot, Gelb, Grün und
+Blau, ist fast immer schon drauf).
+
+1. Tippe auf den Link, den du bekommen hast (zum Beispiel in WhatsApp,
+   in einer SMS oder in einer E-Mail).
+   Falls sich nicht Chrome öffnet: Halte den Finger lange auf den Link
+   und tippe auf "Link kopieren". Öffne Chrome, tippe oben in die
+   Adresszeile, halte den Finger darauf, tippe auf "Einfügen" und dann
+   auf der Tastatur unten rechts auf "Los" oder auf den Pfeil.
+2. Die Seite MyGarage öffnet sich (dunkle Seite, oranges Garagen-Symbol).
+3. Tippe in Chrome oben rechts auf die drei Punkte (drei kleine Punkte
+   übereinander).
+4. Tippe im Menü auf "App installieren" oder auf
+   "Zum Startbildschirm hinzufügen". Der Eintrag heißt je nach Handy
+   etwas anders.
+   Erscheint unten am Bildschirm von selbst eine Leiste
+   "MyGarage installieren", kannst du auch dort auf "Installieren" tippen.
+5. Es öffnet sich ein kleines Fenster. Tippe dort auf "Installieren".
+   Steht dort "Hinzufügen", tippe auf "Hinzufügen".
+6. Auf deinem Startbildschirm ist jetzt das orange Garagen-Symbol
+   "MyGarage". Ab jetzt öffnest du die App immer über dieses Symbol.
+
+A2. Sicherung machen (Android)
+------------------------------
+1. Tippe in MyGarage oben links auf die drei Striche.
+2. Wische im Menü ganz nach unten und tippe auf "Sicherung exportieren".
+3. Tippe auf "Herunterladen". Die Datei "MyGarage-Sicherung-..." liegt
+   jetzt im Ordner "Downloads" (zu finden in der App "Dateien" oder
+   "Eigene Dateien").
+4. Heb die Datei zusätzlich woanders auf, zum Beispiel per E-Mail an dich
+   selbst oder auf einem Computer.
+
+A3. Sicherung zurückholen (Android, zum Beispiel auf einem neuen Handy)
+---------------------------------------------------------------------
+1. Installiere MyGarage wie oben unter A1.
+2. Hol die Sicherungsdatei auf das Handy, zum Beispiel aus deiner
+   E-Mail herunterladen.
+3. Öffne MyGarage und tippe auf "Sicherung importieren".
+   Beim ersten Start steht der Knopf direkt auf der Startseite,
+   sonst findest du ihn über die drei Striche oben links, ganz unten.
+4. Wähle die Sicherungsdatei aus (meist im Ordner "Downloads").
+   Alle Fahrzeuge, Einträge und Bilder sind wieder da.
+
+
+=====================================================================
+TEIL B: IPHONE
+=====================================================================
+
+B1. App installieren
+--------------------
+Du brauchst die App "Safari" (blauer Kompass, ist immer schon drauf).
+
+1. Tippe auf den Link, den du bekommen hast.
+   Falls sich nicht Safari öffnet (zum Beispiel weil sich der Link
+   in WhatsApp oder in der Mail-App öffnet): Halte den Finger lange auf
+   den Link und tippe auf "Kopieren". Öffne Safari, tippe auf die
+   Adresszeile, tippe noch einmal hinein und dann auf
+   "Einfügen und öffnen".
+2. Die Seite MyGarage öffnet sich (dunkle Seite, oranges Garagen-Symbol).
+3. Tippe auf das Teilen-Symbol. Das ist ein Quadrat, aus dem oben ein
+   Pfeil herauszeigt. Es ist meistens unten in der Mitte.
+   Siehst du es nicht, tippe unten rechts auf die drei Punkte und dann
+   auf "Teilen".
+4. Wische in dem Fenster, das sich öffnet, nach oben und tippe auf
+   "Zum Home-Bildschirm".
+5. Steht dort ein Schalter "Als Web-App öffnen", lass ihn eingeschaltet
+   (grün).
+6. Tippe oben rechts auf "Hinzufügen".
+7. Auf deinem Home-Bildschirm ist jetzt das orange Garagen-Symbol
+   "MyGarage".
+
+WICHTIG beim iPhone: Öffne MyGarage ab jetzt immer nur über dieses
+Symbol, nicht mehr über Safari. Das iPhone speichert die Daten der App
+auf dem Home-Bildschirm getrennt von Safari. Was du in Safari einträgst,
+siehst du in der App nicht.
+
+B2. Sicherung machen (iPhone)
+-----------------------------
+1. Tippe in MyGarage oben links auf die drei Striche.
+2. Wische im Menü ganz nach unten und tippe auf "Sicherung exportieren".
+3. Tippe auf den orangen Knopf "In Dateien sichern".
+4. Es öffnet sich ein Fenster. Wische nach oben und tippe auf
+   "In Dateien sichern".
+5. Wähle einen Ordner aus:
+   - "iCloud Drive", wenn du iCloud nutzt. Dann ist die Sicherung
+     automatisch auch auf einem neuen iPhone da.
+   - sonst "Auf meinem iPhone".
+6. Tippe oben rechts auf "Sichern".
+7. Heb die Datei zusätzlich woanders auf, zum Beispiel per E-Mail an
+   dich selbst.
+
+B3. Sicherung zurückholen (iPhone, zum Beispiel auf einem neuen iPhone)
+----------------------------------------------------------------------
+1. Installiere MyGarage wie oben unter B1.
+2. Öffne MyGarage über das Symbol und tippe auf "Sicherung importieren".
+   Beim ersten Start steht der Knopf direkt auf der Startseite,
+   sonst findest du ihn über die drei Striche oben links, ganz unten.
+3. Es erscheint eine kleine Auswahl. Tippe auf "Datei auswählen".
+4. Die App "Dateien" öffnet sich. Tippe unten auf "Durchsuchen" und dann
+   auf den Ordner, in dem die Sicherung liegt (zum Beispiel "iCloud Drive"
+   oder "Auf meinem iPhone").
+5. Tippe auf die Datei "MyGarage-Sicherung-...".
+   Alle Fahrzeuge, Einträge und Bilder sind wieder da.
+
+
+=====================================================================
+TEIL C: ERSTER START (Android und iPhone)
+=====================================================================
+1. Tippe auf dem Startbildschirm auf das Symbol "MyGarage".
+2. Tippe in das Feld "Name des Fahrzeugs" und schreib den Namen deines
+   Autos hinein, zum Beispiel "Opel Corsa".
+   Kennzeichen, Kilometerstand und FIN kannst du gleich oder später
+   eintragen.
+3. Tippe auf den orangen Knopf "Fahrzeug anlegen". Fertig.
+
+Noch ein Fahrzeug anlegen:
+Tippe oben links auf die drei Striche, dann auf "+ Fahrzeug hinzufügen".
+
+
+=====================================================================
+TEIL D: GUT ZU WISSEN
+=====================================================================
+- Deine Daten sind nur auf diesem Handy gespeichert. Geht das Handy
+  kaputt oder verloren, sind sie weg. Mach deshalb ab und zu eine
+  Sicherung. Die App erinnert dich alle 30 Tage daran.
+- Wenn du die App vom Startbildschirm löschst oder im Browser die
+  Websitedaten löschst, sind auch deine MyGarage-Daten weg.
+  Mach vorher eine Sicherung.
+- Gelöschte Einträge landen erst im Papierkorb (drei Striche oben links,
+  dann "Papierkorb") und bleiben dort 30 Tage.
